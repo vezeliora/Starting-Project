@@ -1,0 +1,14 @@
+E:\Drive D Files\Apps - VS\Starting-Project\Starting-Project\Starting-Project\bin\Debug\net6.0\Starting-Project.exe
+E:\Drive D Files\Apps - VS\Starting-Project\Starting-Project\Starting-Project\bin\Debug\net6.0\Starting-Project.deps.json
+E:\Drive D Files\Apps - VS\Starting-Project\Starting-Project\Starting-Project\bin\Debug\net6.0\Starting-Project.runtimeconfig.json
+E:\Drive D Files\Apps - VS\Starting-Project\Starting-Project\Starting-Project\bin\Debug\net6.0\Starting-Project.dll
+E:\Drive D Files\Apps - VS\Starting-Project\Starting-Project\Starting-Project\bin\Debug\net6.0\Starting-Project.pdb
+E:\Drive D Files\Apps - VS\Starting-Project\Starting-Project\Starting-Project\obj\Debug\net6.0\Starting-Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Drive D Files\Apps - VS\Starting-Project\Starting-Project\Starting-Project\obj\Debug\net6.0\Starting-Project.AssemblyInfoInputs.cache
+E:\Drive D Files\Apps - VS\Starting-Project\Starting-Project\Starting-Project\obj\Debug\net6.0\Starting-Project.AssemblyInfo.cs
+E:\Drive D Files\Apps - VS\Starting-Project\Starting-Project\Starting-Project\obj\Debug\net6.0\Starting-Project.csproj.CoreCompileInputs.cache
+E:\Drive D Files\Apps - VS\Starting-Project\Starting-Project\Starting-Project\obj\Debug\net6.0\Starting-Project.dll
+E:\Drive D Files\Apps - VS\Starting-Project\Starting-Project\Starting-Project\obj\Debug\net6.0\refint\Starting-Project.dll
+E:\Drive D Files\Apps - VS\Starting-Project\Starting-Project\Starting-Project\obj\Debug\net6.0\Starting-Project.pdb
+E:\Drive D Files\Apps - VS\Starting-Project\Starting-Project\Starting-Project\obj\Debug\net6.0\Starting-Project.genruntimeconfig.cache
+E:\Drive D Files\Apps - VS\Starting-Project\Starting-Project\Starting-Project\obj\Debug\net6.0\ref\Starting-Project.dll
